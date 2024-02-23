@@ -7,8 +7,8 @@ responsive bir e-ticaret websitesi geliştirildi.
 
 # Ekran görüntüleri
 
-![](/images/shopping.png)
+![](/images/ecommerce.png)
 
 # video görüntüleri
 
-![](/images/ecommerce.mp4)
+![](/images/e-commerce.mp4)
